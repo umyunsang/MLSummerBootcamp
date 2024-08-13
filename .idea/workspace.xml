@@ -4,39 +4,77 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73a7b3c7-776b-42de-ab0d-00d43b52ca92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MLSummerBootcamp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="73a7b3c7-776b-42de-ab0d-00d43b52ca92" name="Changes" comment="logistic.py">
+      <change afterPath="$PROJECT_DIR$/KNN/DecisionTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KNN/SGDClassifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KNN/ex01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KNN/Classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/KNN/Classifier.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2kEDkwbEJT0RV2OspmWmKAIx0fY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Classifier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Multi_Regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bream_and_smelt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.logistic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pivot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.subplot.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/엄윤상/Desktop/CS/MLSummerBootcamp/matplotlib&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\엄윤상\Desktop\CS\MLSummerBootcamp\matplotlib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\엄윤상\Desktop\CS\MLSummerBootcamp\matplotlib" />
+      <recent name="C:\Users\엄윤상\Desktop\CS\MLSummerBootcamp" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -53,6 +91,225 @@
       <option name="presentableId" value="Default" />
       <updated>1722839989981</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1722841287144</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722841287144</updated>
+    </task>
+    <task id="LOCAL-00002" summary="quiz">
+      <option name="closed" value="true" />
+      <created>1722841386220</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722841386220</updated>
+    </task>
+    <task id="LOCAL-00003" summary="numpy">
+      <option name="closed" value="true" />
+      <created>1722841429480</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722841429480</updated>
+    </task>
+    <task id="LOCAL-00004" summary="bar_plot">
+      <option name="closed" value="true" />
+      <created>1722841485663</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722841485663</updated>
+    </task>
+    <task id="LOCAL-00005" summary="boxplot">
+      <option name="closed" value="true" />
+      <created>1722841506860</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722841506860</updated>
+    </task>
+    <task id="LOCAL-00006" summary="grid_and_size">
+      <option name="closed" value="true" />
+      <created>1722841539494</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722841539494</updated>
+    </task>
+    <task id="LOCAL-00007" summary="imshow_plot">
+      <option name="closed" value="true" />
+      <created>1722841580312</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722841580312</updated>
+    </task>
+    <task id="LOCAL-00008" summary="matplotlib_examples">
+      <option name="closed" value="true" />
+      <created>1722841818769</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722841818769</updated>
+    </task>
+    <task id="LOCAL-00009" summary="pie_plot">
+      <option name="closed" value="true" />
+      <created>1722841853006</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722841853006</updated>
+    </task>
+    <task id="LOCAL-00010" summary="scatter_plot">
+      <option name="closed" value="true" />
+      <created>1722841880186</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1722841880186</updated>
+    </task>
+    <task id="LOCAL-00011" summary="sin_cos_curves">
+      <option name="closed" value="true" />
+      <created>1722841904918</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1722841904918</updated>
+    </task>
+    <task id="LOCAL-00012" summary="subplot">
+      <option name="closed" value="true" />
+      <created>1722841939307</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1722841939307</updated>
+    </task>
+    <task id="LOCAL-00013" summary="subplot_text">
+      <option name="closed" value="true" />
+      <created>1722841967421</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1722841967421</updated>
+    </task>
+    <task id="LOCAL-00014" summary="series.py">
+      <option name="closed" value="true" />
+      <created>1722922925190</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1722922925190</updated>
+    </task>
+    <task id="LOCAL-00015" summary="dataframe.py">
+      <option name="closed" value="true" />
+      <created>1722922978693</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1722922978693</updated>
+    </task>
+    <task id="LOCAL-00016" summary="DF_operations.py">
+      <option name="closed" value="true" />
+      <created>1722924065433</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1722924065433</updated>
+    </task>
+    <task id="LOCAL-00017" summary="pivot.py">
+      <option name="closed" value="true" />
+      <created>1723002212483</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1723002212483</updated>
+    </task>
+    <task id="LOCAL-00018" summary="data_analysis.py">
+      <option name="closed" value="true" />
+      <created>1723077541551</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1723077541551</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Classifier.py">
+      <option name="closed" value="true" />
+      <created>1723091344744</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1723091344744</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Regression.py">
+      <option name="closed" value="true" />
+      <created>1723091836604</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1723091836604</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Multi_Regression.py">
+      <option name="closed" value="true" />
+      <created>1723174458108</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1723174458108</updated>
+    </task>
+    <task id="LOCAL-00022" summary="logistic.py">
+      <option name="closed" value="true" />
+      <created>1723432609247</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1723432609247</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <MESSAGE value="quiz" />
+    <MESSAGE value="numpy" />
+    <MESSAGE value="bar_plot" />
+    <MESSAGE value="boxplot" />
+    <MESSAGE value="grid_and_size" />
+    <MESSAGE value="imshow_plot" />
+    <MESSAGE value="matplotlib_examples" />
+    <MESSAGE value="pie_plot" />
+    <MESSAGE value="scatter_plot" />
+    <MESSAGE value="sin_cos_curves" />
+    <MESSAGE value="subplot" />
+    <MESSAGE value="subplot_text" />
+    <MESSAGE value="series.py" />
+    <MESSAGE value="dataframe.py" />
+    <MESSAGE value="DF_operations.py" />
+    <MESSAGE value="pivot.py" />
+    <MESSAGE value="data_analysis.py" />
+    <MESSAGE value="Classifier.py" />
+    <MESSAGE value="Regression.py" />
+    <MESSAGE value="Multi_Regression.py" />
+    <MESSAGE value="logistic.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="logistic.py" />
   </component>
 </project>

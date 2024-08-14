@@ -6,23 +6,23 @@ Welcome to the **MLSummerBootcamp** repository! This repository is your go-to re
 
 - **📐 [numpy/](./numpy_basic)**  
   *Practical Code:* This directory holds examples and exercises on using `NumPy`, a core library for numerical computations in Python. These examples are foundational for efficient array operations in ML.  
-  *Related Theory:* [NumPy Notes](./Notes/NumPy)
+  *Note directory:* [NumPy Notes](./Notes/NumPy)
 
 - **📈 [matplotlib/](./matplotlib)**  
   *Practical Code:* In this folder, you'll find scripts demonstrating how to visualize data using the `matplotlib` library. Data visualization is key to gaining insights from data.  
-  *Related Theory:* [matplotlib Notes](./Notes/Matplotlib)
+  *Note directory:* [matplotlib Notes](./Notes/Matplotlib)
 
 - **📊 [Pandas/](./Pandas)**  
   *Practical Code:* This directory contains Python scripts (`.py` files) that focus on data manipulation and analysis using the Pandas library. Mastering Pandas is crucial for any data-related tasks in ML.  
-  *Related Theory:* [Pandas Notes](./Notes/Pandas)
+  *Note directory:* [Pandas Notes](./Notes/Pandas)
 
 - **🤖 [sklearn/](./sklearn)**  
   *Practical Code:* This directory includes scripts that demonstrate how to use `scikit-learn` to implement various machine learning algorithms. Learn how to build, train, and evaluate models using this powerful library.  
-  *Related Theory:* [scikit-learn Notes](./Notes/Sklearn)
+  *Note directory:* [scikit-learn Notes](./Notes/Sklearn)
 
 - **🔗 [LangChain/](./rag_practice)**  
-  *Practical Code:* This directory focuses on overcoming the limitations of current LLMs by developing an enhanced version of ChatGPT using In-Context Learning. The scripts leverage LangChain to implement the RAG (Reinforcement Augmented Generation) method, enabling LLMs to learn from PDF files and produce outputs based on that learning.
-  *Related Theory:* [RAG Practice Notes](./Notes/LangChain)
+  *Practical Code:* This directory focuses on overcoming the limitations of current LLMs by developing an enhanced version of ChatGPT using In-Context Learning. The scripts leverage LangChain to implement the RAG (Reinforcement Augmented Generation) method, enabling LLMs to learn from PDF files and produce outputs based on that learning
+  *Note directory:* [RAG Practice Notes](./Notes/LangChain)
 
 
 ## 🚀 Getting Started

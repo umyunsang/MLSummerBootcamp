@@ -21,7 +21,8 @@ Welcome to the **MLSummerBootcamp** repository! This repository is your go-to re
   *Note directory:* [scikit-learn Notes](./Notes/Sklearn)
 
 - **🔗 [LangChain/](./rag_practice)**  
-  *Practical Code:* This directory focuses on overcoming the limitations of current LLMs by developing an enhanced version of ChatGPT using In-Context Learning. The scripts leverage LangChain to implement the RAG (Reinforcement Augmented Generation) method, enabling LLMs to learn from PDF files and produce outputs based on that learning
+  *Practical Code:* This directory focuses on overcoming the limitations of current LLMs by developing an enhanced version of ChatGPT using In-Context Learning. The scripts leverage LangChain to implement the RAG (Reinforcement Augmented Generation) method, enabling LLMs to learn from PDF files and produce outputs based on that learning.
+
   *Note directory:* [RAG Practice Notes](./Notes/LangChain)
 
 

@@ -21,7 +21,7 @@ Welcome to the **MLSummerBootcamp** repository! This repository is your go-to re
   *Related Theory:* [scikit-learn Notes](./Notes/Sklearn)
 
 - **🔗 [LangChain/](./rag_practice)**  
-  *Practical Code:* This directory contains scripts and practice exercises related to LangChain, a library designed for building language model-powered applications. Explore how to leverage large language models (LLMs) for various tasks such as question answering, data retrieval, and more.  
+  *Practical Code:* This directory focuses on overcoming the limitations of current LLMs by developing an enhanced version of ChatGPT using In-Context Learning. The scripts leverage LangChain to implement the RAG (Reinforcement Augmented Generation) method, enabling LLMs to learn from PDF files and produce outputs based on that learning.
   *Related Theory:* [RAG Practice Notes](./Notes/LangChain)
 
 

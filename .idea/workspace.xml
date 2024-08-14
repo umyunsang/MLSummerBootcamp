@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73a7b3c7-776b-42de-ab0d-00d43b52ca92" name="Changes" comment="Upload note files">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024-08-06__2_42__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024-08-06_오후_2_42_[Changes]/shelved.patch" beforeDir="false" />
+    <list default="true" id="73a7b3c7-776b-42de-ab0d-00d43b52ca92" name="Changes" comment="rename">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,8 +68,11 @@
       <recent name="C:\Users\엄윤상\Desktop\CS\MLSummerBootcamp\matplotlib" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\엄윤상\Desktop\CS\MLSummerBootcamp\matplotlib" />
-      <recent name="C:\Users\엄윤상\Desktop\CS\MLSummerBootcamp" />
+      <recent name="C:\Users\엄윤상\Desktop\CS\MLSummerBootcamp\sklearn\Regression\SDG" />
+      <recent name="C:\Users\엄윤상\Desktop\CS\MLSummerBootcamp\sklearn\Regression\Multiple" />
+      <recent name="C:\Users\엄윤상\Desktop\CS\MLSummerBootcamp\sklearn\Regression\logistic" />
+      <recent name="C:\Users\엄윤상\Desktop\CS\MLSummerBootcamp\sklearn\Classifier\DecisionTree" />
+      <recent name="C:\Users\엄윤상\Desktop\CS\MLSummerBootcamp\sklearn\Classifier\KNNC" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -274,7 +275,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723519936923</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="rename">
+      <option name="closed" value="true" />
+      <created>1723594195081</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1723594195081</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,6 +327,7 @@
     <MESSAGE value="Multi_Regression.py" />
     <MESSAGE value="logistic.py" />
     <MESSAGE value="Upload note files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload note files" />
+    <MESSAGE value="rename" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename" />
   </component>
 </project>

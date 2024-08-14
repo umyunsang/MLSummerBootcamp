@@ -32,7 +32,7 @@ train_input, test_input, train_target, test_target = train_test_split(perch_leng
 train_input = train_input.reshape(-1, 1)
 test_input = test_input.reshape(-1, 1)
 
-# KNN 회귀 모델 생성 및 학습
+# sklearn 회귀 모델 생성 및 학습
 knr = KNeighborsRegressor()
 knr.fit(train_input, train_target)
 score = knr.score(test_input, test_target)

@@ -36,7 +36,7 @@ fish_target = np.concatenate((np.ones(35), np.zeros(14)))
 print(fish_data)
 print(fish_target)
 
-# KNN 분류기 생성 및 학습
+# sklearn 분류기 생성 및 학습
 kn = KNeighborsClassifier()
 kn.fit(fish_data, fish_target)
 score = kn.score(fish_data, fish_target)
@@ -57,7 +57,7 @@ plt.ylabel('Weight (g)')
 plt.legend()
 plt.show()
 
-# 훈련 데이터로 KNN 분류기 학습 및 테스트 데이터 평가
+# 훈련 데이터로 sklearn 분류기 학습 및 테스트 데이터 평가
 kn = KNeighborsClassifier()
 kn.fit(train_input, train_target)
 score = kn.score(test_input, test_target)
@@ -78,7 +78,7 @@ plt.ylabel('Weight (standardized)')
 plt.legend()
 plt.show()
 
-# 표준화된 데이터로 KNN 분류기 학습
+# 표준화된 데이터로 sklearn 분류기 학습
 kn = KNeighborsClassifier()
 kn.fit(train_scaled, train_target)
 

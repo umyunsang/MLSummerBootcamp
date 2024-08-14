@@ -36,10 +36,10 @@ ss.fit(train_input)
 train_scaled = ss.transform(train_input)
 test_scaled = ss.transform(test_input)
 
-# K-최근접 이웃(K-Nearest Neighbors, KNN) 분류기를 생성하고, 이웃의 수를 3으로 설정합니다.
+# K-최근접 이웃(K-Nearest Neighbors, sklearn) 분류기를 생성하고, 이웃의 수를 3으로 설정합니다.
 kn = KNeighborsClassifier(n_neighbors=3)
 
-# 표준화된 훈련 데이터를 사용해 KNN 모델을 학습시킵니다.
+# 표준화된 훈련 데이터를 사용해 sklearn 모델을 학습시킵니다.
 kn.fit(train_scaled, train_target)
 
 # 훈련 세트에서의 모델 정확도를 출력합니다.

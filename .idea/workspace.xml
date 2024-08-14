@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73a7b3c7-776b-42de-ab0d-00d43b52ca92" name="Changes" comment="logistic.py">
-      <change afterPath="$PROJECT_DIR$/KNN/DecisionTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KNN/SGDClassifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KNN/ex01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="73a7b3c7-776b-42de-ab0d-00d43b52ca92" name="Changes" comment="Upload note files">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024-08-06__2_42__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024-08-06_오후_2_42_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KNN/Classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/KNN/Classifier.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +46,10 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.Classifier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DecisionTree.executor&quot;: &quot;Run&quot;,
     &quot;Python.Multi_Regression.executor&quot;: &quot;Run&quot;,
     &quot;Python.Regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SGDClassifier.executor&quot;: &quot;Run&quot;,
     &quot;Python.bream_and_smelt.executor&quot;: &quot;Run&quot;,
     &quot;Python.data_analysis.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex01.executor&quot;: &quot;Run&quot;,
@@ -267,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723432609247</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Upload note files">
+      <option name="closed" value="true" />
+      <created>1723519936923</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1723519936923</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -310,6 +317,7 @@
     <MESSAGE value="Regression.py" />
     <MESSAGE value="Multi_Regression.py" />
     <MESSAGE value="logistic.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="logistic.py" />
+    <MESSAGE value="Upload note files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload note files" />
   </component>
 </project>

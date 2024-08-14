@@ -5,19 +5,23 @@ Welcome to the **MLSummerBootcamp** repository! This repository is your go-to re
 ## 📂 Repository Structure
 
 - **📐 [numpy/](./numpy_basic)**  
-  *Practical Code:* This directory holds examples and exercises on using `NumPy`, a core library for numerical computations in Python. These examples are foundational for efficient array operations in ML.  
+  *Practical Code:* This directory holds examples and exercises on using `NumPy`, a core library for numerical computations in Python. These examples are foundational for efficient array operations in ML.
+    
   *Note directory:* [NumPy Notes](./Notes/NumPy)
 
 - **📈 [matplotlib/](./matplotlib)**  
-  *Practical Code:* In this folder, you'll find scripts demonstrating how to visualize data using the `matplotlib` library. Data visualization is key to gaining insights from data.  
+  *Practical Code:* In this folder, you'll find scripts demonstrating how to visualize data using the `matplotlib` library. Data visualization is key to gaining insights from data.
+   
   *Note directory:* [matplotlib Notes](./Notes/Matplotlib)
 
 - **📊 [Pandas/](./Pandas)**  
-  *Practical Code:* This directory contains Python scripts (`.py` files) that focus on data manipulation and analysis using the Pandas library. Mastering Pandas is crucial for any data-related tasks in ML.  
+  *Practical Code:* This directory contains Python scripts (`.py` files) that focus on data manipulation and analysis using the Pandas library. Mastering Pandas is crucial for any data-related tasks in ML.
+  
   *Note directory:* [Pandas Notes](./Notes/Pandas)
 
 - **🤖 [sklearn/](./sklearn)**  
-  *Practical Code:* This directory includes scripts that demonstrate how to use `scikit-learn` to implement various machine learning algorithms. Learn how to build, train, and evaluate models using this powerful library.  
+  *Practical Code:* This directory includes scripts that demonstrate how to use `scikit-learn` to implement various machine learning algorithms. Learn how to build, train, and evaluate models using this powerful library.
+  
   *Note directory:* [scikit-learn Notes](./Notes/Sklearn)
 
 - **🔗 [LangChain/](./rag_practice)**  

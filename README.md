@@ -7,7 +7,7 @@ Welcome to the **MLSummerBootcamp** repository! This repository is your go-to re
 - **📐 [numpy/](./numpy_basic)**  
   *Practical Code:* This directory holds examples and exercises on using `NumPy`, a core library for numerical computations in Python. These examples are foundational for efficient array operations in ML.
     
-  *Note directory:* [NumPy Notes](./Notes/NumPy)
+  *Note directory:* [NumPy Notes](./Notes/Numpy)
 
 - **📈 [matplotlib/](./matplotlib)**  
   *Practical Code:* In this folder, you'll find scripts demonstrating how to visualize data using the `matplotlib` library. Data visualization is key to gaining insights from data.
